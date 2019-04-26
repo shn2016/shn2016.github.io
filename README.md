@@ -11,6 +11,7 @@
 
 ----
 ## Skill Summary
+
 *	Fluent JavaScript (ES6), HTML and CSS3
 *	Commercial developing experience React.js, Node.js/Loopback.js
 *	Experience working with Material UI, Ant Design and Styled Components, exposure to BEM
@@ -26,18 +27,14 @@
 ----
 
 ## Projects
-| Project | Type | Github | Demo |
-|:---:|:---:|:---:|:---:|
+
+| Project | Type | Github | Demo | 
+|:---:|:---:|:---:|:---:| 
 | **Pizza Creator** | frontend, react | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/react-pizza-creator) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/react-pizza-creator/) | 
-
-| **Pizza Admin System** | frontend, react | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/pizza-creator-admin/) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/pizza-creator-admin/) |
-
-| **Pizza Ordering API** | backend, loopback(node.js) | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/kai-pizza-admin-api) | [![demo logo](./assets/eye.svg)](https://pizza-admin-api.herokuapp.com/explorer/) |
-
-| **Tesla Range Calculator** | frontend, react | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/tesla-range-calculator) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/tesla-range-calculator/) |
-
-| **Dynamic Table** | frontend, react | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/dynamic-table) | [![demo logo](/assets/eye.svg)](ttps://shn2016.github.io/dynamic-table/) |
-
+| **Pizza Admin System** | frontend, react | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/pizza-creator-admin/) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/pizza-creator-admin/) | 
+| **Pizza Ordering API** | backend, loopback(node.js) | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/kai-pizza-admin-api) | [![demo logo](./assets/eye.svg)](https://pizza-admin-api.herokuapp.com/explorer/) | 
+| **Tesla Range Calculator** | frontend, react | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/tesla-range-calculator) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/tesla-range-calculator/) | 
+| **Dynamic Table** | frontend, react | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/dynamic-table) | [![demo logo](/assets/eye.svg)](ttps://shn2016.github.io/dynamic-table/) | 
 | **Explore VIC** | Android, Java | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/ExploreVIC) | [![demo logo](./assets/eye.svg)](https://www.youtube.com/watch?v=Ko3uKH162s8&feature=youtu.be) |
 
 ----
@@ -63,6 +60,7 @@
 ----
 
 ## Volunteer Works
+
 *	`2017` RASV Volunteer for Royal Melbourne Show, demonstrating farming activities for children.
 *	`2017` Peer Mentor of Faculty of IT at Monash University helping freshmen to adapt University.
 *	`2017` Ambassador of English Connect, organizing the concluding event and making presentations to international students.

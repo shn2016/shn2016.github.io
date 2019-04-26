@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: 'Kai GAO'
 description: 'Seeking for Web Developer jobs in Melbourne'
-show_downloads: 'false'
+show_downloads: false
 google_analytics: 'UA-139119745-1'
 logo: './assets/main.jpg'
