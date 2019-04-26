@@ -27,12 +27,12 @@
 ## Projects
 | Name | Type | Github | Demo |
 |:---:|:---:|:---:|:---:|
-| **Pizza Ordering System** | frontend, client, react | (!(github logo)[./assets/GitHub_Logo.png])[https://github.com/shn2016/react-pizza-creator] | (!(demo logo)[./assets/demo.png])[https://shn2016.github.io/react-pizza-creator/] |
-| **Pizza Ordering System** | frontend, admin, react | (!(github logo)[./assets/GitHub_Logo.png])[https://github.com/shn2016/pizza-creator-admin/] | (!(demo logo)[./assets/demo.png])[https://shn2016.github.io/pizza-creator-admin/] |
-| **Pizza Ordering System** | backend, loopback(node.js) | (!(github logo)[./assets/GitHub_Logo.png])[https://github.com/shn2016/kai-pizza-admin-api] | (!(demo logo)[./assets/demo.png])[https://pizza-admin-api.herokuapp.com/explorer/] |
-| **Tesla Range Calculator** | frontend, react | (!(github logo)[./assets/GitHub_Logo.png])[https://github.com/shn2016/tesla-range-calculator]| (!(demo logo)[./assets/demo.png])[https://shn2016.github.io/tesla-range-calculator/] |
-| **Dynamic Table** | frontend, react | (!(github logo)[./assets/GitHub_Logo.png])[https://github.com/shn2016/dynamic-table]| (!(demo logo)[./assets/demo.png])[https://shn2016.github.io/dynamic-table/] |
-| **Explore VIC - Android Application** | Android, Java | (!(github logo)[./assets/GitHub_Logo.png])[https://github.com/shn2016/ExploreVIC] | (!(demo logo)[./assets/demo.png])[https://www.youtube.com/watch?v=Ko3uKH162s8&feature=youtu.be] |
+| **Pizza Ordering System** | frontend, client, react | [![github logo](./assets/GitHub_Logo.png)](https://github.com/shn2016/react-pizza-creator) | [![demo logo](./assets/demo.png)](https://shn2016.github.io/react-pizza-creator/) |
+| **Pizza Ordering System** | frontend, admin, react | [![github logo](./assets/GitHub_Logo.png)](https://github.com/shn2016/pizza-creator-admin/) | [![demo logo](./assets/demo.png)](https://shn2016.github.io/pizza-creator-admin/) |
+| **Pizza Ordering System** | backend, loopback(node.js) | [![github logo](./assets/GitHub_Logo.png)](https://github.com/shn2016/kai-pizza-admin-api) | [![demo logo](./assets/demo.png)](https://pizza-admin-api.herokuapp.com/explorer/) |
+| **Tesla Range Calculator** | frontend, react | [![github logo](./assets/GitHub_Logo.png)](https://github.com/shn2016/tesla-range-calculato) | [![demo logo](./assets/demo.png)](https://shn2016.github.io/tesla-range-calculator/) |
+| **Dynamic Table** | frontend, react | [![github logo](./assets/GitHub_Logo.png)](https://github.com/shn2016/dynamic-table) | ([([emo logo)](/assets/demo.png][](ttps://shn2016.github.io/dynamic-table/) |
+| **Explore VIC - Android Application** | Android, Java | [![github logo](./assets/GitHub_Logo.png)](https://github.com/shn2016/ExploreVIC) | [![demo logo](./assets/demo.png)](https://www.youtube.com/watch?v=Ko3uKH162s8&feature=youtu.be) |
 
 ----
 ## Professional Experience
