@@ -28,9 +28,9 @@
 ## Projects
 | Name | Type | Github | Demo |
 |:---:|:---:|:---:|:---:|
-| **Pizza Ordering System** | frontend, client, react | [<img src="https://github.com/favicon.ico">](https://github.com/shn2016/react-pizza-creator ) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/react-pizza-creator/) |
-| **Pizza Ordering System** | frontend, admin, react | [<img src="https://github.com/favicon.ico">](https://github.com/shn2016/pizza-creator-admin/) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/pizza-creator-admin/) |
-| **Pizza Ordering System** | backend, loopback(node.js) | [<img src="https://github.com/favicon.ico">](https://github.com/shn2016/kai-pizza-admin-api) | [![demo logo](./assets/eye.svg)](https://pizza-admin-api.herokuapp.com/explorer/) |
+| **Pizza Creator** | frontend, react | [<img src="https://github.com/favicon.ico">](https://github.com/shn2016/react-pizza-creator ) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/react-pizza-creator/) |
+| **Pizza Admin System** | frontend, react | [<img src="https://github.com/favicon.ico">](https://github.com/shn2016/pizza-creator-admin/) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/pizza-creator-admin/) |
+| **Pizza Ordering API** | backend, loopback(node.js) | [<img src="https://github.com/favicon.ico">](https://github.com/shn2016/kai-pizza-admin-api) | [![demo logo](./assets/eye.svg)](https://pizza-admin-api.herokuapp.com/explorer/) |
 | **Tesla Range Calculator** | frontend, react | [<img src="https://github.com/favicon.ico">](https://github.com/shn2016/tesla-range-calculator) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/tesla-range-calculator/) |
 | **Dynamic Table** | frontend, react | [<img src="https://github.com/favicon.ico">](https://github.com/shn2016/dynamic-table) | [![demo logo](/assets/eye.svg)](ttps://shn2016.github.io/dynamic-table/) |
 | **Explore VIC - Android Application** | Android, Java | [<img src="https://github.com/favicon.ico">](https://github.com/shn2016/ExploreVIC) | [![demo logo](./assets/eye.svg)](https://www.youtube.com/watch?v=Ko3uKH162s8&feature=youtu.be) |
@@ -38,7 +38,7 @@
 ----
 
 ## Professional Experience
-**Leopard Systems** | Apr 2018 – Jun 2018 | Developer and Tester (Intern) | Melbourne |
+**Leopard Systems** | Apr 2018 – Jun 2018 | **Developer and Tester (Intern)** | Melbourne |
 *	Responsible with Leopard Delivery (App) test automation and maintaining Job Centre (Web Administration System)
 *	Applied Test Automation to ensure features of Leopard Delivery functional and consistent, performed on Microsoft App Centre and Windows environment, using C# and NUnit. 
 *	Maintained Job Centre in ASP.NET C# Web Forms, the main assignments include:
@@ -52,8 +52,8 @@
 
 | Name | Period | Degree | Location |
 |:---:|:---:|:---:|:---:|
-| Monash University | 2015 - 2017 | Master of Information Technology | Melbourne, Victoria, Australia |
-| Qingdao University | 2010 - 2014 | Bachelor of Polymer Science and Engineering | Qingdao, Shandong, China |
+| Monash University |2015 - 2017| Master of Information Technology | Melbourne, Australia |
+| Qingdao University |2010 - 2014| Bachelor of Polymer Science and Engineering | Qingdao, China |
 
 ----
 
