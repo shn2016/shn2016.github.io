@@ -3,10 +3,10 @@
   <a href="#projects">Projects</a> |
   <a href="#professional-experience">Professional Experience</a> |
   <a href="#education">Education</a>
-  </br>
+  <br>
   <a href="#volunteer-works">Volunteer Works</a> |
   <a href="#contact">Contact</a>
-  </br>
+  <br>
 </p>
 
 ----
