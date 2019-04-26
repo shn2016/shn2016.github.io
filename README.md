@@ -1,12 +1,12 @@
 <p align="center">
   <a href="#skill-summary">Skill Summary</a> |
-  <a href="#Projects">Projects</a> |
-  <a href="#Professional-Experience">Professional Experience</a> |
-  <a href="#Education">Education</a> |
-  <a href="#Volunteer-Works">Volunteer Works</a> |
-  <a href="#Contact">Contact</a>
+  <a href="#projects">Projects</a> |
+  <a href="#professional-experience">Professional Experience</a> |
+  <a href="#education">Education</a> |
+  <a href="#volunteer-works">Volunteer Works</a> |
+  <a href="#contact">Contact</a>
   <br><br>
-  <img src="./assets/main.jpg">
+  <img src="./assets/main.jpg" width="300" height="200" >
 </p>
 
 ----
@@ -24,17 +24,19 @@
 *	Experience working in agile development environment, using Jira, SVN and GitHub
 
 ----
+
 ## Projects
 | Name | Type | Github | Demo |
 |:---:|:---:|:---:|:---:|
-| **Pizza Ordering System** | frontend, client, react | [![github logo](./assets/GitHub_Logo.png)](https://github.com/shn2016/react-pizza-creator) | [![demo logo](./assets/demo.png)](https://shn2016.github.io/react-pizza-creator/) |
-| **Pizza Ordering System** | frontend, admin, react | [![github logo](./assets/GitHub_Logo.png)](https://github.com/shn2016/pizza-creator-admin/) | [![demo logo](./assets/demo.png)](https://shn2016.github.io/pizza-creator-admin/) |
-| **Pizza Ordering System** | backend, loopback(node.js) | [![github logo](./assets/GitHub_Logo.png)](https://github.com/shn2016/kai-pizza-admin-api) | [![demo logo](./assets/demo.png)](https://pizza-admin-api.herokuapp.com/explorer/) |
-| **Tesla Range Calculator** | frontend, react | [![github logo](./assets/GitHub_Logo.png)](https://github.com/shn2016/tesla-range-calculato) | [![demo logo](./assets/demo.png)](https://shn2016.github.io/tesla-range-calculator/) |
-| **Dynamic Table** | frontend, react | [![github logo](./assets/GitHub_Logo.png)](https://github.com/shn2016/dynamic-table) | ([([emo logo)](/assets/demo.png][](ttps://shn2016.github.io/dynamic-table/) |
-| **Explore VIC - Android Application** | Android, Java | [![github logo](./assets/GitHub_Logo.png)](https://github.com/shn2016/ExploreVIC) | [![demo logo](./assets/demo.png)](https://www.youtube.com/watch?v=Ko3uKH162s8&feature=youtu.be) |
+| **Pizza Ordering System** | frontend, client, react | [<img src="https://github.com/favicon.ico">](https://github.com/shn2016/react-pizza-creator ) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/react-pizza-creator/) |
+| **Pizza Ordering System** | frontend, admin, react | [<img src="https://github.com/favicon.ico">](https://github.com/shn2016/pizza-creator-admin/) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/pizza-creator-admin/) |
+| **Pizza Ordering System** | backend, loopback(node.js) | [<img src="https://github.com/favicon.ico">](https://github.com/shn2016/kai-pizza-admin-api) | [![demo logo](./assets/eye.svg)](https://pizza-admin-api.herokuapp.com/explorer/) |
+| **Tesla Range Calculator** | frontend, react | [<img src="https://github.com/favicon.ico">](https://github.com/shn2016/tesla-range-calculator) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/tesla-range-calculator/) |
+| **Dynamic Table** | frontend, react | [<img src="https://github.com/favicon.ico">](https://github.com/shn2016/dynamic-table) | [![demo logo](/assets/eye.svg)](ttps://shn2016.github.io/dynamic-table/) |
+| **Explore VIC - Android Application** | Android, Java | [<img src="https://github.com/favicon.ico">](https://github.com/shn2016/ExploreVIC) | [![demo logo](./assets/eye.svg)](https://www.youtube.com/watch?v=Ko3uKH162s8&feature=youtu.be) |
 
 ----
+
 ## Professional Experience
 **Leopard Systems** | Apr 2018 – Jun 2018 | Developer and Tester (Intern) | Melbourne |
 *	Responsible with Leopard Delivery (App) test automation and maintaining Job Centre (Web Administration System)
@@ -45,13 +47,16 @@
 *	SVN and Jira are used for version control and project management respectively.
 
 ----
+
 ## Education
 
 | Name | Period | Degree | Location |
 |:---:|:---:|:---:|:---:|
 | Monash University | 2015 - 2017 | Master of Information Technology | Melbourne, Victoria, Australia |
 | Qingdao University | 2010 - 2014 | Bachelor of Polymer Science and Engineering | Qingdao, Shandong, China |
+
 ----
+
 ## Volunteer Works
 *	`2017` RASV Volunteer for Royal Melbourne Show, demonstrating farming activities for children.
 *	`2017` Peer Mentor of Faculty of IT at Monash University helping freshmen to adapt University.
@@ -61,6 +66,7 @@
 *	`2016` MPA and MONSU Volunteer, Making the speech and introducing campus services for new students during orientation.
 
 ----
+
 ## Contact
 
 ```javascript
