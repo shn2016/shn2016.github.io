@@ -1,4 +1,7 @@
 <p align="center">
+Table of Contents
+</p>
+<p align="center">
   <a href="#skill-summary">Skill Summary</a> |
   <a href="#projects">Projects</a> |
   <a href="#professional-experience">Professional Experience</a> |
@@ -12,17 +15,17 @@
 ----
 ## Skill Summary
 
-*	Fluent JavaScript (ES6), HTML and CSS3
-*	Commercial developing experience React.js, Node.js/Loopback.js
-*	Experience working with Material UI, Ant Design and Styled Components, exposure to BEM
-*	Hands on experience with NPM, yarn, webpack and babel
-*	Proficient understanding of RESTful web services, demonstrated experience with AWS, Heroku and Netlify
-*	Working with ASP.NET web forms by C#
-*	Developing Android application with Java
-*	Solid understanding of both relational and non-relational database: SQL and MongoDB
-*	Hands on experience with TDD (Test Driven Development), unit test and test automation by using enzyme and NUnit
+*	Fluent **JavaScript (ES6)**, **HTML** and **CSS3**
+*	Commercial developing experience **React.js, Node.js / Loopback.js**
+*	Experience working with **Material UI, Ant Design** and **Styled Component**, exposure to **BEM**
+*	Hands on experience with **NPM, yarn, webpack and babel**
+*	Proficient understanding of **RESTful** web services, demonstrated experience with **AWS, Heroku** and **Netlify**
+*	Working with **ASP.NET** web forms by **C#**
+*	Developing **Android** application with **Java**
+*	Solid understanding of both relational and non-relational database: **MSSQL, MYSQL** and **MongoDB**
+*	Hands on experience with **TDD** (Test Driven Development), unit test and test automation by using **enzyme** and **NUnit**
 *	Exposure to Typescript, Docker and Microservices
-*	Experience working in agile development environment, using Jira, SVN and GitHub
+*	Experience working in **agile** development environment, using **Jira, SVN** and **git**
 
 ----
 
@@ -36,17 +39,21 @@
 | **Tesla Range Calculator** | frontend, react | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/tesla-range-calculator) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/tesla-range-calculator/) | 
 | **Dynamic Table** | frontend, react | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/dynamic-table) | [![demo logo](/assets/eye.svg)](ttps://shn2016.github.io/dynamic-table/) | 
 | **Explore VIC** | Android, Java | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/ExploreVIC) | [![demo logo](./assets/eye.svg)](https://www.youtube.com/watch?v=Ko3uKH162s8&feature=youtu.be) |
+| **LeetCode Javascript** | LeetCode, Javascript | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/leetcode-javascript) | no demo here |
 
 ----
 
 ## Professional Experience
-**Leopard Systems** | Apr 2018 – Jun 2018 | **Developer and Tester (Intern)** | Melbourne |
-*	Responsible with Leopard Delivery (App) test automation and maintaining Job Centre (Web Administration System)
-*	Applied Test Automation to ensure features of Leopard Delivery functional and consistent, performed on Microsoft App Centre and Windows environment, using C# and NUnit. 
-*	Maintained Job Centre in ASP.NET C# Web Forms, the main assignments include:
+
+#### Leopard Systems
+Apr 2018 – Jun 2018 | Developer and Tester (Intern) | Melbourne 
+
+*	Responsible with **Leopard Delivery** (App) test automation and maintaining **Job Centre** (Web Administration System)
+*	Applied **Test Automation** to ensure features of Leopard Delivery functional and consistent, performed on Microsoft App Centre and Windows environment, using C# and NUnit. 
+*	Maintained Job Centre in ASP.NET C# **Web Forms**, the main assignments include:
 *	Improved accessibility of pagination, altered UI and allow user to input page number and size in multiple pages, using cookies.
 *	Implemented filter and search function for employee and branch management, performed unit testing to ensure the backend data correct. 
-*	SVN and Jira are used for version control and project management respectively.
+*	**SVN** and **Jira** are used for version control and project management respectively.
 
 ----
 
