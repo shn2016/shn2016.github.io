@@ -32,6 +32,7 @@ Table of Contents
 ## Projects
 
 ### full stack web application 
+
 | Project | Type | Github | Demo | 
 |:---:|:---:|:---:|:---:| 
 | **Pizza Creator** | frontend, react | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/react-pizza-creator) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/react-pizza-creator/) | 
