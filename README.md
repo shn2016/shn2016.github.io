@@ -31,13 +31,25 @@ Table of Contents
 
 ## Projects
 
+### full stack web application 
 | Project | Type | Github | Demo | 
 |:---:|:---:|:---:|:---:| 
 | **Pizza Creator** | frontend, react | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/react-pizza-creator) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/react-pizza-creator/) | 
 | **Pizza Admin System** | frontend, react | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/pizza-creator-admin/) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/pizza-creator-admin/) | 
 | **Pizza Ordering API** | backend, loopback(node.js) | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/kai-pizza-admin-api) | [![demo logo](./assets/eye.svg)](https://pizza-admin-api.herokuapp.com/explorer/) | 
-| **Tesla Range Calculator** | frontend, react | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/tesla-range-calculator) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/tesla-range-calculator/) | 
-| **Dynamic Table** | frontend, react | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/dynamic-table) | [![demo logo](/assets/eye.svg)](ttps://shn2016.github.io/dynamic-table/) | 
+
+### single page web application 
+
+| Project | Type | Github | Demo | 
+|:---:|:---:|:---:|:---:| 
+| **Tesla Range Calculator** | frontend, react, redux | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/tesla-range-calculator) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/tesla-range-calculator/) | 
+| **Dynamic Table** | frontend, react, router | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/dynamic-table) | [![demo logo](/assets/eye.svg)](https://shn2016.github.io/dynamic-table/) | 
+| **Course Search** | frontend, react, redux | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/course-search) | Not avaliable | 
+
+### others
+
+| Project | Type | Github | Demo | 
+|:---:|:---:|:---:|:---:| 
 | **Explore VIC** | Android, Java | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/ExploreVIC) | [![demo logo](./assets/eye.svg)](https://www.youtube.com/watch?v=Ko3uKH162s8&feature=youtu.be) |
 | **LeetCode Javascript** | LeetCode, Javascript | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/leetcode-javascript) | no demo here |
 
