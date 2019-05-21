@@ -16,14 +16,14 @@ Table of Contents
 ## Skill Summary
 
 *	Fluent **JavaScript (ES6)**, **HTML** and **CSS3**
-*	Commercial developing experience **React.js, Node.js / Loopback.js**
+*	Proficient Commercial developing experience **React.js, React Router, Redux and Node.js / Loopback.js**
 *	Experience working with **Material UI, Ant Design** and **Styled Component**, exposure to **BEM**
 *	Hands on experience with **NPM, yarn, webpack and babel**
 *	Proficient understanding of **RESTful** web services, demonstrated experience with **AWS, Heroku** and **Netlify**
 *	Working with **ASP.NET** web forms by **C#**
 *	Developing **Android** application with **Java**
 *	Solid understanding of both relational and non-relational database: **MSSQL, MYSQL** and **MongoDB**
-*	Hands on experience with **TDD** (Test Driven Development), unit test and test automation by using **enzyme** and **NUnit**
+* With exposure to **TDD** (Test Driven Development), unit test and test automation by using **enzyme** and **NUnit**
 *	Exposure to Typescript, Docker and Microservices
 *	Experience working in **agile** development environment, using **Jira, SVN** and **git**
 
@@ -31,7 +31,7 @@ Table of Contents
 
 ## Projects
 
-### full stack web application 
+### 1 Full stack web application 
 
 | Project | Type | Github | Demo | 
 |:---:|:---:|:---:|:---:| 
@@ -39,7 +39,7 @@ Table of Contents
 | **Pizza Admin System** | frontend, react | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/pizza-creator-admin/) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/pizza-creator-admin/) | 
 | **Pizza Ordering API** | backend, loopback(node.js) | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/kai-pizza-admin-api) | [![demo logo](./assets/eye.svg)](https://pizza-admin-api.herokuapp.com/explorer/) | 
 
-### single page web application 
+### 2 Single page web application 
 
 | Project | Type | Github | Demo | 
 |:---:|:---:|:---:|:---:| 
@@ -47,7 +47,7 @@ Table of Contents
 | **Dynamic Table** | frontend, react, router | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/dynamic-table) | [![demo logo](/assets/eye.svg)](https://shn2016.github.io/dynamic-table/) | 
 | **Course Search** | frontend, react, redux | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/course-search) | Not avaliable | 
 
-### others
+### 3 Others
 
 | Project | Type | Github | Demo | 
 |:---:|:---:|:---:|:---:| 
