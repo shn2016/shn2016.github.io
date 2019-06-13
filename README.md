@@ -15,17 +15,18 @@ Table of Contents
 ----
 ## Skill Summary
 
-*	Fluent **JavaScript (ES6)**, **HTML** and **CSS3**
-*	Proficient Commercial developing experience **React.js, React Router, Redux and Node.js / Loopback.js**
-*	Experience working with **Material UI, Ant Design** and **Styled Component**, exposure to **BEM**
-*	Hands on experience with **NPM, yarn, webpack and babel**
-*	Proficient understanding of **RESTful** web services, demonstrated experience with **AWS, Heroku** and **Netlify**
-*	Working with **ASP.NET** web forms by **C#**
-*	Developing **Android** application with **Java**
-*	Solid understanding of both relational and non-relational database: **MSSQL, MYSQL** and **MongoDB**
-* With exposure to **TDD** (Test Driven Development), unit test and test automation by using **enzyme** and **NUnit**
-*	Exposure to Typescript, Docker and Microservices
-*	Experience working in **agile** development environment, using **Jira, SVN** and **git**
+* Fluent skill in HTML, CSS3, JavaScript (ES6), TypeScript;
+* Frontend Development: proficient with React, React Router and Redux, experience with Angular 7, ASP.NET web forms;
+* Backend Development: Node.js, Express.js, Loopback 4, .NET Core 2;
+* Programming with Java, C#.
+* Solid understanding of RESTful web services and open API.
+* Experience working with Material UI, Ant Design, using Styled Components and Sass, exposure to BEM;
+* Hands on experience with NPM, Yarn, Webpack and Babel;
+* Web deployment with AWS, Heroku;
+* Experience with both relational and non-relational database: MSSQL and MongoDB;
+* Hands on experience with TDD (Test Driven Development), unit test by using enzyme and test automation by NUnit;
+* Experience working in agile development environment, using Jira, SVN and GitHub;
+
 
 ----
 
@@ -57,6 +58,23 @@ Table of Contents
 ----
 
 ## Professional Experience
+
+#### JR Academy
+Nov 2018 – Current | Web Developer | Melbourne 
+
+* Responsible for the front-end web development & backend web development for the company's website and outsourcing websites.
+* Improve functionality of existing systems
+* Design and implement web components and responsive user interface for the website 
+* Deployment on AWS and Heroku
+* Work done with JavaScript, React, Node, Express, MongoDB, Webpack, SASS, etc.
+
+#### Freelancer
+April 2019 – Current | Web Developer | Melbourne 
+
+* Working through full stack web development to front end development, as well as app pulishing.
+* The main stack used are :
+* React + Node + MongoDB;
+* Angular 7 + .Net Core 2.2 + SQL server.
 
 #### Leopard Systems
 Apr 2018 – Jun 2018 | Developer and Tester (Intern) | Melbourne 
