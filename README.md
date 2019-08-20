@@ -15,18 +15,15 @@ Table of Contents
 ----
 ## Skill Summary
 
-* Fluent skill in HTML, CSS3, JavaScript (ES6), TypeScript;
-* Frontend Development: proficient with React, React Router and Redux, experience with Angular 7, ASP.NET web forms;
-* Backend Development: Node.js, Express.js, Loopback 4, .NET Core 2;
-* Programming with Java, C#.
-* Solid understanding of RESTful web services and open API.
-* Experience working with Material UI, Ant Design, using Styled Components and Sass, exposure to BEM;
-* Hands on experience with NPM, Yarn, Webpack and Babel;
-* Web deployment with AWS, Heroku;
-* Experience with both relational and non-relational database: MSSQL and MongoDB;
-* Hands on experience with TDD (Test Driven Development), unit test by using enzyme and test automation by NUnit;
-* Experience working in agile development environment, using Jira, SVN and GitHub;
-
+* Programming Languages:	HTML, CSS, JavaScript ES6, TypeScript, Java, C#
+* Frontend Frameworks:	React.js, React Router, Redux, Angular 7, Keystone.js, ASP.NET
+* Tools:	NPM, Yarn, Webpack and Babel
+* UI:	Material UI, Bootstrap; Styled Component, Sass, Less, BEM
+* Backend Frameworks:	Node.js, Express.js, Loopback 4, C# .NET Core 2
+* Cloud Services:	AWS S3, EC2, Azure, Heroku
+* Database:	Microsoft SQL Server, MongoDB
+* Project Management:	Agile Environment, Jira,
+* Version Control:	Git, GitHub, Bitbucket, SVN
 
 ----
 
@@ -65,29 +62,28 @@ Table of Contents
 #### JR Academy
 Nov 2018 – Current | Web Developer | Melbourne 
 
-* Responsible for the front-end web development & backend web development for the company's website and outsourcing websites.
-* Improve functionality of existing systems
-* Design and implement web components and responsive user interface for the website 
-* Deployment on AWS and Heroku
-* Work done with JavaScript, React, Node, Express, MongoDB, Webpack, SASS, etc.
+* Responsible for the front-end web development & backend web development for the company's website and outsourcing websites;
+* Improve functionality of existing systems;
+* Design and implement web components and responsive user interface for the website;
+* Deployment on AWS;
+* Work done with React, Keystone, Express, MongoDB, Webpack, LESS, etc;
+
 
 #### Freelancer
 April 2019 – Current | Web Developer | Melbourne 
 
-* Working through full stack web development to front end development, as well as app pulishing.
-* The main stack used are :
-* React + Node + MongoDB;
-* Angular 7 + .Net Core 2.2 + SQL server.
+* Experience with Web development, Mobile App DevOps, SEO;
+* Web involves with Landing Page, CRM System Design and Development;
+* Successfully published a Wear OS app to Google Play Store;
+* Server migration: from AWS EC2 to CrazyDomains;
 
 #### Leopard Systems
 Apr 2018 – Jun 2018 | Developer and Tester (Intern) | Melbourne 
 
-*	Responsible with **Leopard Delivery** (App) test automation and maintaining **Job Centre** (Web Administration System)
-*	Applied **Test Automation** to ensure features of Leopard Delivery functional and consistent, performed on Microsoft App Centre and Windows environment, using C# and NUnit. 
-*	Maintained Job Centre in ASP.NET C# **Web Forms**, the main assignments include:
-*	Improved accessibility of pagination, altered UI and allow user to input page number and size in multiple pages, using cookies.
-*	Implemented filter and search function for employee and branch management, performed unit testing to ensure the backend data correct. 
-*	**SVN** and **Jira** are used for version control and project management respectively.
+* Implemented test automation for mobile app, performed CRM system maintenance, improved UI and UX;
+* Main skill stacks used are ASP.NET, jQuery, C#, NUnit, MS SQL Server;
+* SVN and Jira are used for version control and project management respectively;
+
 
 ----
 
@@ -116,7 +112,7 @@ Apr 2018 – Jun 2018 | Developer and Tester (Intern) | Melbourne
 ```javascript
 const kai = {
   name: "Kai GAO",
-  email: "kaigaoinau@gmail.com",
+  email: "kaigao.dev@gmail.com",
   profession: "Junior Web Developer",
   location: "Melbourne, VIC, Australia",
   mobile: 0405966610,
