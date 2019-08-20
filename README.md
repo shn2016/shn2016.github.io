@@ -15,15 +15,17 @@ Table of Contents
 ----
 ## Skill Summary
 
-* Programming Languages:	HTML, CSS, JavaScript ES6, TypeScript, Java, C#
-* Frontend Frameworks:	React.js, React Router, Redux, Angular 7, Keystone.js, ASP.NET
-* Tools:	NPM, Yarn, Webpack and Babel
-* UI:	Material UI, Bootstrap; Styled Component, Sass, Less, BEM
-* Backend Frameworks:	Node.js, Express.js, Loopback 4, C# .NET Core 2
-* Cloud Services:	AWS S3, EC2, Azure, Heroku
-* Database:	Microsoft SQL Server, MongoDB
-* Project Management:	Agile Environment, Jira,
-* Version Control:	Git, GitHub, Bitbucket, SVN
+| Category | Tech | 
+|:---:|:---:|
+| Programming Languages| HTML, CSS, JavaScript ES6, TypeScript, Java, C#|
+| Frontend Frameworks|	React.js, React Router, Redux, Angular 7, Keystone.js, ASP.NET|
+| Tools|	NPM, Yarn, Webpack and Babel|
+| UI|	Material UI, Bootstrap; Styled Component, Sass, Less, BEM|
+| Backend Frameworks|	Node.js, Express.js, Loopback 4, C# .NET Core 2|
+| Cloud Services|	AWS S3, EC2, Azure, Heroku|
+| Database|	Microsoft SQL Server, MongoDB|||
+| Project Management|	Agile Environment, Jira||
+| Version Control|	Git, GitHub, Bitbucket, SVN|
 
 ----
 
