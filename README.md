@@ -41,6 +41,7 @@ Table of Contents
 | **My Place** | .NET Core + Angular | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/projects-intro/blob/master/README.MD) | [![demo logo](./assets/eye.svg)](https://github.com/shn2016/projects-intro/blob/master/README.MD) | 
 | **JR Academy Dashboard** |  React, NodeJS | Not Available | [![demo logo](./assets/eye.svg)](https://jiangren.com.au/) |
 | **JR Academy** | React, NodeJS | Not Available | [![demo logo](./assets/eye.svg)](https://learn.jiangren.com.au) |
+| **Fakebuzz** | Angular, .Net Core | Not Available | [![demo logo](./assets/eye.svg)](https://github.com/shn2016/projects-intro/blob/master/fakebuzz.MD) |
 
 ### 2 Single page web application 
 
@@ -49,6 +50,8 @@ Table of Contents
 | **Tesla Range Calculator** | frontend, react, redux | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/tesla-range-calculator) | [![demo logo](./assets/eye.svg)](https://shn2016.github.io/tesla-range-calculator/) | 
 | **Dynamic Table** | frontend, react, router | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/dynamic-table) | [![demo logo](/assets/eye.svg)](https://shn2016.github.io/dynamic-table/) | 
 | **Course Search** | frontend, react, redux | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/course-search) | Not avaliable | 
+| **Carter Digital test** | code-test, react, redux | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/kai-fed-test) | [![demo logo](/assets/eye.svg)](http://kaigao.co/kai-fed-test/)  | 
+| **Shadelink** | frontend, react, emailjs | Not avaliable | [![demo logo](/assets/eye.svg)](/http://shadelink.net.au/) | 
 
 ### 3 Others
 
@@ -56,7 +59,7 @@ Table of Contents
 |:---:|:---:|:---:|:---:| 
 | **Explore VIC** | Android, Java | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/ExploreVIC) | [![demo logo](./assets/eye.svg)](https://www.youtube.com/watch?v=Ko3uKH162s8&feature=youtu.be) |
 | **LeetCode Javascript** | LeetCode, Javascript | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/leetcode-javascript) | Not avaliable |
-
+| **Wear Duress** | Watch app, Xamarin, DevOps | Not avaliable |  [![demo logo](./assets/eye.svg)](https://play.google.com/store/apps/details?id=com.ts.wearduress_Signed) |
 ----
 
 ## Professional Experience
@@ -72,7 +75,7 @@ Nov 2018 – Current | Web Developer | Melbourne
 
 
 #### Freelancer
-April 2019 – Current | Web Developer | Melbourne 
+Jan 2019 – Current | Web Developer | Melbourne 
 
 * Experience with Web development, Mobile App DevOps, SEO;
 * Web involves with Landing Page, CRM System Design and Development;
