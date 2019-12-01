@@ -31,7 +31,7 @@ Table of Contents
 
 ## Projects
 
-### 1 Full stack web application 
+### 1. Full stack web application 
 
 | Project | Type | Github | Demo | 
 |:---:|:---:|:---:|:---:| 
@@ -43,7 +43,7 @@ Table of Contents
 | **JR Academy** | React, NodeJS | Not Available | [![demo logo](./assets/eye.svg)](https://learn.jiangren.com.au) |
 | **Fakebuzz** | Angular, .Net Core | Not Available | [![demo logo](./assets/eye.svg)](https://github.com/shn2016/projects-intro/blob/master/fakebuzz.MD) |
 
-### 2 Single page web application 
+### 2. Single page web application 
 
 | Project | Type | Github | Demo | 
 |:---:|:---:|:---:|:---:| 
@@ -53,13 +53,14 @@ Table of Contents
 | **Carter Digital test** | code-test, react, redux | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/kai-fed-test) | [![demo logo](/assets/eye.svg)](http://kaigao.co/kai-fed-test/)  | 
 | **Shadelink** | frontend, react, emailjs | Not avaliable | [![demo logo](/assets/eye.svg)](/http://shadelink.net.au/) | 
 
-### 3 Others
+### 3. Others
 
 | Project | Type | Github | Demo | 
 |:---:|:---:|:---:|:---:| 
 | **Explore VIC** | Android, Java | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/ExploreVIC) | [![demo logo](./assets/eye.svg)](https://www.youtube.com/watch?v=Ko3uKH162s8&feature=youtu.be) |
 | **LeetCode Javascript** | LeetCode, Javascript | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/leetcode-javascript) | Not avaliable |
 | **Wear Duress** | Watch app, Xamarin, DevOps | Not avaliable |  [![demo logo](./assets/eye.svg)](https://play.google.com/store/apps/details?id=com.ts.wearduress_Signed) |
+
 
 ----
 
