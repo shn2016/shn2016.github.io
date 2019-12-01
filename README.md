@@ -60,6 +60,7 @@ Table of Contents
 | **Explore VIC** | Android, Java | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/ExploreVIC) | [![demo logo](./assets/eye.svg)](https://www.youtube.com/watch?v=Ko3uKH162s8&feature=youtu.be) |
 | **LeetCode Javascript** | LeetCode, Javascript | [![github logo](./assets/favicon.ico)](https://github.com/shn2016/leetcode-javascript) | Not avaliable |
 | **Wear Duress** | Watch app, Xamarin, DevOps | Not avaliable |  [![demo logo](./assets/eye.svg)](https://play.google.com/store/apps/details?id=com.ts.wearduress_Signed) |
+
 ----
 
 ## Professional Experience
