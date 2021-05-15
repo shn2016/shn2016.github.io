@@ -25,8 +25,8 @@ thinking outside the box to identify and solve business problems.
 
 | Category | Tech | 
 |:---:|:---:|
-| Programming Languages| HTML, CSS, JavaScript ES6, TypeScript, Java, C#|
-| Frontend Frameworks|	React.js, React Router, Redux, Angular 7, Keystone.js, ASP.NET|
+| Programming Languages| HTML, CSS, JavaScript ES6, TypeScript, C#|
+| Frontend Frameworks|	React.js, Angular 7, ASP.NET|
 | Tools|	NPM, Yarn, Webpack and Babel|
 | UI|	Material UI, Bootstrap; Styled Component, Sass, Less, BEM|
 | Backend Frameworks|	Node.js, Express.js, Loopback 4, C# .NET Core 2|
