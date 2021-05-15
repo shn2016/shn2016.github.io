@@ -11,6 +11,13 @@ Table of Contents
   <a href="#contact">Contact</a>
   <br>
 </p>
+----
+## Career Profile
+
+A Full Stack Web Developer with X amount of professional experience. Known for
+implementing sophisticated, user friendly software applications, streamlining businesses and
+increasing revenues. Pride myself for being a collaborating team player always curious and
+thinking outside the box to identify and solve business problems.
 
 ----
 ## Skill Summary
@@ -26,6 +33,48 @@ Table of Contents
 | Database|	Microsoft SQL Server, MongoDB|||
 | Project Management|	Agile Environment, Jira||
 | Version Control|	Git, GitHub, Bitbucket, SVN|
+
+----
+## Education
+
+| Name | Period | Degree | Location |
+|:---:|:---:|:---:|:---:|
+| Kaplan Business School |2020 - 2021| Master of Business Analytics | Melbourne, Australia |
+| Monash University |2015 - 2017| Master of Information Technology | Melbourne, Australia |
+| Qingdao University |2010 - 2014| Bachelor of Polymer Science and Engineering | Qingdao, China |
+
+----
+## Professional Experience
+
+#### ADB Systems
+Feb 2021 – Current | Full Stack Developer | Melbourne 
+
+* Accountable for the transformation of digital platforms, successfully delivered multiple web application that providing business, workforce solutions;
+* Lead and mentor a high performing, cross-functional agile team.
+
+#### Freelancer
+Jan 2019 – Current | Full Stack Developer | Melbourne 
+
+* Led, architected and participated in the design, development and deployment of web applications;
+* Launched E-commerce sites to help business grow and gain exposure online; 
+* Mitigated ongoing maintenance cost of clients by providing server migration services;
+
+
+#### JR Academy
+Nov 2018 – Oct 2019 | Web Developer | Melbourne 
+
+* Coordinated with other developers and business stakeholders to implement multiple internal and outsourcing projects;
+* Successfully delivered their online learning management system for tutoring on a national base;
+* Optimised functionality and performance of existing official website to improve the SEO rank;
+
+
+#### Leopard Systems
+Apr 2018 – Jun 2018 | Developer and Tester (Intern) | Melbourne 
+
+* Participated in the development and maintenance of the company delivery tracking system;
+* Managed to establish test automation framework to enhance quality assurance of mobile application;
+
+
 
 ----
 
@@ -64,45 +113,6 @@ Table of Contents
 
 ----
 
-## Professional Experience
-
-#### JR Academy
-Nov 2018 – Current | Web Developer | Melbourne 
-
-* Responsible for the front-end web development & backend web development for the company's website and outsourcing websites;
-* Improve functionality of existing systems;
-* Design and implement web components and responsive user interface for the website;
-* Deployment on AWS;
-* Work done with React, Keystone, Express, MongoDB, Webpack, LESS, etc;
-
-
-#### Freelancer
-Jan 2019 – Current | Web Developer | Melbourne 
-
-* Experience with Web development, Mobile App DevOps, SEO;
-* Web involves with Landing Page, CRM System Design and Development;
-* Successfully published a Wear OS app to Google Play Store;
-* Server migration: from AWS EC2 to CrazyDomains;
-
-#### Leopard Systems
-Apr 2018 – Jun 2018 | Developer and Tester (Intern) | Melbourne 
-
-* Implemented test automation for mobile app, performed CRM system maintenance, improved UI and UX;
-* Main skill stacks used are ASP.NET, jQuery, C#, NUnit, MS SQL Server;
-* SVN and Jira are used for version control and project management respectively;
-
-
-----
-
-## Education
-
-| Name | Period | Degree | Location |
-|:---:|:---:|:---:|:---:|
-| Monash University |2015 - 2017| Master of Information Technology | Melbourne, Australia |
-| Qingdao University |2010 - 2014| Bachelor of Polymer Science and Engineering | Qingdao, China |
-
-----
-
 ## Volunteer Works
 
 *	`2017` RASV Volunteer for Royal Melbourne Show, demonstrating farming activities for children.
@@ -120,10 +130,10 @@ Apr 2018 – Jun 2018 | Developer and Tester (Intern) | Melbourne
 const kai = {
   name: "Kai GAO",
   email: "kaigao.dev@gmail.com",
-  profession: "Junior Web Developer",
+  profession: "Full Stack Web Developer",
   location: "Melbourne, VIC, Australia",
   mobile: 0405966610,
   github: 'https://github.com/shn2016',
-  linkedin: 'https://www.linkedin.com/in/kai-gao-6212b0bb'
+  linkedin: 'https://www.linkedin.com/in/kaig-dev'
 }
 ```
