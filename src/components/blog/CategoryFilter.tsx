@@ -30,7 +30,7 @@ export function CategoryFilter({ categories, posts }: CategoryFilterProps) {
             <button
               aria-pressed={isActive}
               className={cn(
-                "rounded-pill border px-4 py-2 text-sm transition-colors",
+                "type-ui rounded-pill border px-4 py-2 transition-colors",
                 isActive
                   ? "border-accent/40 bg-accent/10 text-primary"
                   : "border-border text-muted hover:bg-surface-muted hover:text-primary"
@@ -52,8 +52,8 @@ export function CategoryFilter({ categories, posts }: CategoryFilterProps) {
       </div>
 
       {filteredPosts.length === 0 ? (
-        <div className="surface-card-muted p-6 text-sm text-muted">
-          No published posts in this category yet.
+        <div className="surface-card-muted p-6">
+          <p className="type-ui text-muted">No published posts in this category yet.</p>
         </div>
       ) : null}
     </div>

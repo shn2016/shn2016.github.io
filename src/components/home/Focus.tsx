@@ -17,9 +17,7 @@ export function Focus() {
     >
       <div className="grid gap-5 lg:grid-cols-[minmax(0,1fr)_minmax(17rem,0.7fr)]">
         <div className="surface-card p-8">
-          <p className="text-sm font-medium uppercase tracking-[0.18em] text-soft">
-            Currently focused on
-          </p>
+          <p className="type-label">Currently focused on</p>
           <ul className="mt-6 space-y-4">
             {items.map((item) => (
               <li
@@ -27,7 +25,7 @@ export function Focus() {
                 key={item}
               >
                 <span className="mt-1.5 h-2 w-2 shrink-0 rounded-full bg-accent" />
-                <span className="leading-7">{item}</span>
+                <span className="type-body">{item}</span>
               </li>
             ))}
           </ul>
@@ -35,15 +33,15 @@ export function Focus() {
 
         <div className="grid gap-5">
           <div className="surface-card-muted p-6">
-            <p className="text-sm font-medium text-primary">What this tends to produce</p>
-            <p className="mt-4 leading-7 text-muted">
+            <p className="type-ui font-medium text-primary">What this tends to produce</p>
+            <p className="type-body mt-4">
               Notes on architecture, delivery tradeoffs, and the practical choices
               behind interfaces that need to stay stable.
             </p>
           </div>
           <div className="surface-card-muted p-6">
-            <p className="text-sm font-medium text-primary">Why it matters</p>
-            <p className="mt-4 leading-7 text-muted">
+            <p className="type-ui font-medium text-primary">Why it matters</p>
+            <p className="type-body mt-4">
               The interesting part is rarely the stack alone. It&apos;s how technical
               decisions shape product speed, clarity, and long-term maintenance.
             </p>

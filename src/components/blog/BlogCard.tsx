@@ -19,7 +19,7 @@ export function BlogCard({ post, variant = "default" }: BlogCardProps) {
         isCompact && "bg-surface-muted/92"
       )}
     >
-      <div className={cn("flex flex-wrap items-center gap-3 text-sm text-muted", isCompact && "gap-2")}>
+      <div className={cn("meta-row", isCompact && "gap-2")}>
         <span className="pill border-accent/20 text-accent">{post.category}</span>
         <span>{formatDate(post.date)}</span>
         <span aria-hidden="true">/</span>
@@ -29,16 +29,18 @@ export function BlogCard({ post, variant = "default" }: BlogCardProps) {
       <div className={cn("mt-5 space-y-3", isFeatured && "mt-6 space-y-4")}>
         <h3
           className={cn(
-            "font-semibold tracking-tight text-primary",
-            isFeatured ? "max-w-2xl text-3xl sm:text-[2rem]" : "text-2xl",
-            isCompact && "text-xl"
+            "type-card-title",
+            isFeatured && "type-card-title-featured max-w-2xl",
+            isCompact && "type-card-title-compact"
           )}
         >
           <Link className="hover:text-accent" href={`/blog/${post.slug}`}>
             {post.title}
           </Link>
         </h3>
-        <p className={cn("leading-7 text-muted", isCompact && "text-sm leading-6")}>{post.description}</p>
+        <p className={cn("type-body", isCompact && "text-[0.95rem] leading-7")}>
+          {post.description}
+        </p>
       </div>
 
       <div className={cn("mt-6 flex flex-wrap gap-2", isFeatured && "mt-8")}>

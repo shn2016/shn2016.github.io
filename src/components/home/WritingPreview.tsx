@@ -25,7 +25,7 @@ export function WritingPreview({ posts }: WritingPreviewProps) {
             ))}
           </div>
         </div>
-        <Link className="link-subtle inline-flex items-center gap-2 rounded-pill border border-border bg-surface px-4 py-2" href="/blog">
+        <Link className="button-secondary inline-flex items-center gap-2" href="/blog">
           See all posts
           <span aria-hidden="true">→</span>
         </Link>

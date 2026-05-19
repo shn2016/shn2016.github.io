@@ -15,10 +15,10 @@ export default function BlogIndexPage() {
     <section className="py-16 sm:py-20">
       <div className="max-w-3xl space-y-5">
         <p className="eyebrow">Writing</p>
-        <h1 className="text-4xl font-semibold tracking-tight text-primary sm:text-5xl">
+        <h1 className="type-page-title">
           Notes on systems, products, and what becomes worth building.
         </h1>
-        <p className="font-serif text-lg leading-8 text-soft">
+        <p className="type-lead max-w-2xl text-soft">
           Published MDX posts, ordered by date, with category filters for browsing the
           subjects I keep coming back to.
         </p>

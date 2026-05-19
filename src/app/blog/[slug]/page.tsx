@@ -65,18 +65,14 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
       </Link>
 
       <header className="mt-8 max-w-3xl space-y-5">
-        <div className="flex flex-wrap items-center gap-3 text-sm text-muted">
+        <div className="meta-row">
           <span className="pill border-accent/20 text-accent">{post.category}</span>
           <span>{formatDate(post.date)}</span>
           <span aria-hidden="true">/</span>
           <span>{post.readingTime}</span>
         </div>
-        <h1 className="text-4xl font-semibold tracking-tight text-primary sm:text-5xl">
-          {post.title}
-        </h1>
-        <p className="font-serif text-lg leading-8 text-soft">
-          {post.description}
-        </p>
+        <h1 className="type-page-title">{post.title}</h1>
+        <p className="type-lead max-w-2xl text-soft">{post.description}</p>
         <div className="flex flex-wrap gap-2">
           {post.tags.map((tag) => (
             <span className="pill" key={tag}>
