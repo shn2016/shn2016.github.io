@@ -31,4 +31,26 @@
     sans-serif;
   --font-serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia,
     serif;
+
+  --type-display-size: clamp(3.25rem, 6vw, 4.5rem);
+  --type-page-title-size: clamp(2.5rem, 4vw, 3.25rem);
+  --type-section-title-size: clamp(2rem, 3vw, 2.5rem);
+  --type-card-title-size: 1.65rem;
+  --type-card-title-featured-size: clamp(2rem, 3vw, 2.35rem);
+  --type-card-title-compact-size: 1.3rem;
+  --type-lead-size: clamp(1.18rem, 1.8vw, 1.45rem);
+  --type-body-size: 1rem;
+  --type-ui-size: 0.975rem;
+  --type-meta-size: 0.95rem;
+  --type-label-size: 0.75rem;
+
+  --type-leading-display: 1.02;
+  --type-leading-title: 1.08;
+  --type-leading-lead: 1.45;
+  --type-leading-body: 1.72;
+  --type-leading-meta: 1.55;
+  --type-leading-ui: 1.4;
+
+  --type-tracking-tight: -0.035em;
+  --type-tracking-label: 0.18em;
 }

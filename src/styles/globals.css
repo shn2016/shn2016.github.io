@@ -54,8 +54,76 @@
     @apply border-t border-border/70 py-section-y;
   }
 
+  .type-display {
+    @apply font-semibold text-primary;
+    font-size: var(--type-display-size);
+    line-height: var(--type-leading-display);
+    letter-spacing: var(--type-tracking-tight);
+  }
+
+  .type-page-title {
+    @apply font-semibold text-primary;
+    font-size: var(--type-page-title-size);
+    line-height: var(--type-leading-title);
+    letter-spacing: var(--type-tracking-tight);
+  }
+
+  .type-section-title {
+    @apply font-semibold text-primary;
+    font-size: var(--type-section-title-size);
+    line-height: var(--type-leading-title);
+    letter-spacing: var(--type-tracking-tight);
+  }
+
+  .type-card-title {
+    @apply font-semibold text-primary;
+    font-size: var(--type-card-title-size);
+    line-height: 1.18;
+    letter-spacing: -0.025em;
+  }
+
+  .type-card-title-featured {
+    font-size: var(--type-card-title-featured-size);
+  }
+
+  .type-card-title-compact {
+    font-size: var(--type-card-title-compact-size);
+    line-height: 1.22;
+  }
+
+  .type-lead {
+    @apply text-primary/88;
+    font-size: var(--type-lead-size);
+    line-height: var(--type-leading-lead);
+    letter-spacing: -0.01em;
+  }
+
+  .type-body {
+    @apply text-muted;
+    font-size: var(--type-body-size);
+    line-height: var(--type-leading-body);
+  }
+
+  .type-meta {
+    @apply text-muted;
+    font-size: var(--type-meta-size);
+    line-height: var(--type-leading-meta);
+  }
+
+  .type-label {
+    @apply font-semibold uppercase text-soft;
+    font-size: var(--type-label-size);
+    line-height: 1.35;
+    letter-spacing: var(--type-tracking-label);
+  }
+
+  .type-ui {
+    font-size: var(--type-ui-size);
+    line-height: var(--type-leading-ui);
+  }
+
   .eyebrow {
-    @apply text-xs font-semibold uppercase tracking-[0.24em] text-accent;
+    @apply type-label text-accent;
   }
 
   .surface-card {
@@ -67,15 +135,37 @@
   }
 
   .pill {
-    @apply inline-flex items-center rounded-pill border border-border/80 bg-surface px-3 py-1 text-sm text-muted;
+    @apply type-ui inline-flex items-center rounded-pill border border-border/80 bg-surface px-3 py-1 text-muted;
   }
 
   .link-subtle {
-    @apply text-sm text-muted hover:text-primary;
+    @apply type-ui text-muted hover:text-primary;
+  }
+
+  .button-primary {
+    @apply type-ui rounded-pill border border-accent/25 bg-accent px-5 py-3 font-medium text-white hover:bg-accent-strong;
+  }
+
+  .button-secondary {
+    @apply type-ui rounded-pill border border-border bg-surface px-5 py-3 font-medium text-muted hover:bg-surface-muted hover:text-primary;
+  }
+
+  .button-accent-soft {
+    @apply type-ui rounded-pill border border-accent/30 bg-accent/10 px-5 py-3 font-medium text-primary hover:bg-accent/16;
+  }
+
+  .ui-link-card {
+    @apply type-ui flex items-center justify-between rounded-card border border-border/70 bg-surface-muted/80 px-4 py-3 text-primary hover:border-accent/40 hover:text-accent;
+  }
+
+  .meta-row {
+    @apply type-meta flex flex-wrap items-center gap-3;
   }
 
   .prose-kaig {
-    @apply prose max-w-prose prose-headings:font-sans prose-headings:text-primary prose-p:text-muted prose-p:leading-8 prose-strong:text-primary prose-a:text-accent prose-a:no-underline hover:prose-a:text-accent prose-li:text-muted prose-code:rounded prose-code:bg-surface-muted prose-code:px-1.5 prose-code:py-0.5 prose-code:text-primary prose-code:before:content-none prose-code:after:content-none prose-pre:overflow-x-auto prose-pre:rounded-card prose-pre:border prose-pre:border-border prose-pre:bg-[#f6efe4] prose-pre:text-primary prose-blockquote:border-accent/40 prose-blockquote:text-muted;
+    @apply prose max-w-prose prose-headings:font-sans prose-headings:text-primary prose-p:text-muted prose-strong:text-primary prose-a:text-accent prose-a:no-underline hover:prose-a:text-accent prose-li:text-muted prose-code:rounded prose-code:bg-surface-muted prose-code:px-1.5 prose-code:py-0.5 prose-code:text-primary prose-code:before:content-none prose-code:after:content-none prose-pre:overflow-x-auto prose-pre:rounded-card prose-pre:border prose-pre:border-border prose-pre:bg-[#f6efe4] prose-pre:text-primary prose-blockquote:border-accent/40 prose-blockquote:text-muted;
+    font-size: 1.05rem;
+    line-height: 1.82;
   }
 
   .skip-link {
