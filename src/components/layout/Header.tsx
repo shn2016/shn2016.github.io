@@ -9,7 +9,7 @@ const navigation = [
 export function Header() {
   return (
     <header className="site-shell sticky top-0 z-40">
-      <div className="mt-4 flex items-center justify-between rounded-pill border border-border bg-background/80 px-4 py-3 backdrop-blur md:px-6">
+      <div className="mt-4 flex items-center justify-between rounded-pill border border-border/80 bg-surface/85 px-4 py-3 shadow-[0_20px_40px_-32px_rgba(15,23,42,0.35)] backdrop-blur md:px-6">
         <Link
           className="text-sm font-semibold uppercase tracking-[0.26em] text-primary hover:text-accent"
           href="/"

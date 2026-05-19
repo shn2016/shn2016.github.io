@@ -7,8 +7,8 @@ export const siteConfig = {
   description:
     "Kai Gao is a Melbourne-based software engineer writing about frontend systems, BFF architecture, payments, AI-native products, and solo software businesses.",
   email: "mailto:hello@kaig.dev",
-  github: "https://github.com/kaigao",
-  linkedin: "https://www.linkedin.com/in/kaigao/"
+  github: "https://github.com/shn2016",
+  linkedin: "https://www.linkedin.com/in/kaig-dev/"
 };
 
 export function absoluteUrl(path = "/") {

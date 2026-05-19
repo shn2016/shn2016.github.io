@@ -20,7 +20,7 @@ const config: Config = {
         pill: "var(--radius-pill)"
       },
       boxShadow: {
-        surface: "0 24px 80px -40px rgba(2, 8, 23, 0.8)"
+        surface: "0 30px 80px -42px rgba(148, 163, 184, 0.45)"
       },
       fontFamily: {
         sans: ["var(--font-sans)"],

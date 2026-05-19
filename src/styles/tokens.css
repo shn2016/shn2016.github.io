@@ -1,30 +1,30 @@
 :root {
-  --color-navy-950: 2 6 23;
-  --color-navy-900: 7 17 31;
-  --color-navy-850: 11 22 37;
-  --color-navy-800: 15 23 42;
-  --color-slate-50: 248 251 255;
-  --color-slate-100: 229 237 245;
-  --color-slate-300: 182 197 213;
-  --color-slate-400: 142 160 182;
-  --color-teal-300: 122 231 215;
-  --color-teal-400: 94 234 212;
-  --color-teal-500: 52 214 192;
+  --color-ink-950: 17 24 39;
+  --color-ink-900: 30 41 59;
+  --color-stone-50: 255 252 247;
+  --color-stone-100: 247 242 232;
+  --color-stone-200: 236 227 213;
+  --color-stone-300: 217 206 189;
+  --color-slate-400: 100 116 139;
+  --color-slate-500: 71 85 105;
+  --color-blue-500: 37 99 235;
+  --color-blue-600: 29 78 216;
+  --color-amber-400: 245 158 11;
 
-  --color-background: var(--color-navy-950);
-  --color-surface: var(--color-navy-900);
-  --color-surface-muted: var(--color-navy-800);
-  --color-text-primary: var(--color-slate-100);
-  --color-text-muted: var(--color-slate-400);
-  --color-text-soft: var(--color-slate-300);
-  --color-accent: var(--color-teal-400);
-  --color-accent-strong: var(--color-teal-300);
-  --color-border: var(--color-slate-400);
+  --color-background: var(--color-stone-100);
+  --color-surface: 255 255 255;
+  --color-surface-muted: 250 247 241;
+  --color-text-primary: var(--color-ink-950);
+  --color-text-muted: var(--color-slate-500);
+  --color-text-soft: var(--color-slate-400);
+  --color-accent: var(--color-blue-500);
+  --color-accent-strong: var(--color-blue-600);
+  --color-border: var(--color-stone-300);
 
   --space-page-x: clamp(1.25rem, 3vw, 2rem);
-  --space-section-y: clamp(4.75rem, 8vw, 7.5rem);
+  --space-section-y: clamp(4.5rem, 8vw, 7rem);
 
-  --radius-card: 1.25rem;
+  --radius-card: 1.5rem;
   --radius-pill: 999px;
 
   --font-sans: "Avenir Next", "Segoe UI", "Helvetica Neue", Helvetica, Arial,

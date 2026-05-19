@@ -13,18 +13,17 @@ export function Focus() {
     <Section
       eyebrow="Focus / Now"
       id="focus"
-      intro="A snapshot of current technical interests rather than a timeline of past roles."
       title="The systems and questions I keep returning to."
     >
-      <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_18rem]">
+      <div className="grid gap-5 lg:grid-cols-[minmax(0,1fr)_minmax(17rem,0.7fr)]">
         <div className="surface-card p-8">
-          <p className="text-sm font-medium uppercase tracking-[0.18em] text-muted">
+          <p className="text-sm font-medium uppercase tracking-[0.18em] text-soft">
             Currently focused on
           </p>
           <ul className="mt-6 space-y-4">
             {items.map((item) => (
               <li
-                className="flex gap-4 border-b border-border/60 pb-4 text-soft last:border-b-0 last:pb-0"
+                className="flex gap-4 border-b border-border/60 pb-4 text-muted last:border-b-0 last:pb-0"
                 key={item}
               >
                 <span className="mt-1.5 h-2 w-2 shrink-0 rounded-full bg-accent" />
@@ -34,13 +33,21 @@ export function Focus() {
           </ul>
         </div>
 
-        <div className="surface-card-muted p-6">
-          <p className="text-sm font-medium text-primary">What this turns into</p>
-          <p className="mt-4 leading-7 text-muted">
-            Fewer broad claims, more concrete notes about architecture, delivery,
-            tradeoffs, and the work it takes to turn useful engineering into useful
-            products.
-          </p>
+        <div className="grid gap-5">
+          <div className="surface-card-muted p-6">
+            <p className="text-sm font-medium text-primary">What this tends to produce</p>
+            <p className="mt-4 leading-7 text-muted">
+              Notes on architecture, delivery tradeoffs, and the practical choices
+              behind interfaces that need to stay stable.
+            </p>
+          </div>
+          <div className="surface-card-muted p-6">
+            <p className="text-sm font-medium text-primary">Why it matters</p>
+            <p className="mt-4 leading-7 text-muted">
+              The interesting part is rarely the stack alone. It&apos;s how technical
+              decisions shape product speed, clarity, and long-term maintenance.
+            </p>
+          </div>
         </div>
       </div>
     </Section>
