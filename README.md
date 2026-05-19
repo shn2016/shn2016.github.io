@@ -21,26 +21,24 @@ The homepage is a single long-form landing page with sections for Hero, About, F
 - MDX via `next-mdx-remote`
 - Static export to `out`
 - GitHub Actions + GitHub Pages
-- `pnpm` for package management
+- `npm` for package management
 
 ## Local Development
 
-1. Enable or install `pnpm`.
-2. Install dependencies.
-3. Start the dev server.
+1. Install dependencies.
+2. Start the dev server.
 
 ```bash
-corepack enable
-pnpm install
-pnpm dev
+npm install
+npm run dev
 ```
 
 Useful scripts:
 
 ```bash
-pnpm lint
-pnpm typecheck
-pnpm build
+npm run lint
+npm run typecheck
+npm run build
 ```
 
 ## Blog Publishing Workflow
@@ -50,7 +48,7 @@ Publishing a new post:
 1. Create a new `.mdx` file inside `content/blog`.
 2. Add frontmatter with `title`, `description`, `date`, `category`, `tags`, and `draft`.
 3. Write the post body in MDX.
-4. Run `pnpm dev`.
+4. Run `npm run dev`.
 5. Check `/blog` and `/blog/[slug]`.
 6. Commit the new file.
 7. Push to `main`.
@@ -60,7 +58,7 @@ Example:
 
 ```bash
 cp content/blog/building-a-static-personal-site-with-nextjs.mdx content/blog/my-new-post.mdx
-pnpm dev
+npm run dev
 git add content/blog/my-new-post.mdx
 git commit -m "Add my new blog post"
 git push
@@ -89,10 +87,10 @@ slug: "custom-slug"
 
 The site uses `output: "export"` and builds into a static `out` directory. GitHub Actions runs:
 
-1. `pnpm install --frozen-lockfile`
-2. `pnpm lint`
-3. `pnpm typecheck`
-4. `pnpm build`
+1. `npm ci`
+2. `npm run lint`
+3. `npm run typecheck`
+4. `npm run build`
 5. deploys `out` to GitHub Pages
 
 `public/CNAME` is included for the custom domain `kaig.dev`.
