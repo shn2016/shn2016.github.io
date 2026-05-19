@@ -1,0 +1,91 @@
+@import "./tokens.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply min-h-screen bg-background font-sans text-primary antialiased;
+    background-image:
+      radial-gradient(circle at top, rgba(52, 214, 192, 0.14), transparent 30%),
+      radial-gradient(circle at 80% 20%, rgba(14, 165, 233, 0.08), transparent 22%),
+      linear-gradient(180deg, #020617 0%, #07111f 52%, #020617 100%);
+  }
+
+  main {
+    @apply relative;
+  }
+
+  ::selection {
+    background: rgb(var(--color-accent) / 0.24);
+    color: rgb(var(--color-slate-50));
+  }
+
+  a,
+  button,
+  input,
+  textarea,
+  select {
+    @apply outline-none transition-colors duration-200;
+  }
+
+  a:focus-visible,
+  button:focus-visible,
+  input:focus-visible,
+  textarea:focus-visible,
+  select:focus-visible {
+    box-shadow: 0 0 0 3px rgba(94, 234, 212, 0.32);
+  }
+}
+
+@layer components {
+  .site-shell {
+    @apply mx-auto w-full max-w-6xl px-page-x;
+  }
+
+  .section-shell {
+    @apply border-t border-border/80 py-section-y;
+  }
+
+  .eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.24em] text-accent;
+  }
+
+  .surface-card {
+    @apply rounded-card border border-border/20 bg-surface/80 shadow-surface backdrop-blur;
+  }
+
+  .surface-card-muted {
+    @apply rounded-card border border-border/20 bg-surface-muted/90;
+  }
+
+  .pill {
+    @apply inline-flex items-center rounded-pill border border-border px-3 py-1 text-sm text-muted;
+  }
+
+  .link-subtle {
+    @apply text-sm text-muted hover:text-primary;
+  }
+
+  .prose-kaig {
+    @apply prose prose-invert max-w-prose prose-headings:font-sans prose-headings:text-primary prose-p:text-soft prose-p:leading-8 prose-strong:text-primary prose-a:text-accent prose-a:no-underline hover:prose-a:text-accent prose-li:text-soft prose-code:rounded prose-code:bg-surface-muted prose-code:px-1.5 prose-code:py-0.5 prose-code:text-primary prose-code:before:content-none prose-code:after:content-none prose-pre:overflow-x-auto prose-pre:rounded-card prose-pre:border prose-pre:border-border prose-pre:bg-[#04101d] prose-blockquote:border-accent/40 prose-blockquote:text-soft;
+  }
+
+  .skip-link {
+    @apply absolute left-4 top-4 z-50 rounded-pill border border-accent/40 bg-surface px-4 py-2 text-sm text-primary;
+    transform: translateY(-220%);
+  }
+
+  .skip-link:focus {
+    transform: translateY(0);
+  }
+}

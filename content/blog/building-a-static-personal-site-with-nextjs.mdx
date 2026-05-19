@@ -1,0 +1,80 @@
+---
+title: "Building a Static Personal Site with Next.js"
+description: "Notes on rebuilding my personal website around writing, design tokens, and a static-first architecture."
+date: "2026-05-19"
+category: "Engineering"
+tags: ["nextjs", "tailwind", "design-tokens", "static-site"]
+draft: false
+---
+
+For a long time, my personal website was a traditional developer portfolio. It introduced who I was, listed my experience, showed a few projects, and linked to a resume.
+
+That worked for a while. But over time, the site stopped matching the way I wanted to present myself.
+
+I no longer want the website to be only a place for job-search material. I want it to become a small home on the internet for engineering notes, AI product exploration, and the early thinking behind future solo software businesses.
+
+## What changed
+
+The biggest change is the purpose of the site.
+
+The old version was closer to a portfolio. The new version is closer to a writing-first personal site.
+
+That means removing a few things:
+
+- No dedicated work/projects section
+- No resume link
+- No large contact section
+- No list of small projects that no longer represent the kind of work I want to show
+
+Instead, the new structure focuses on:
+
+- who I am now
+- what I am focused on
+- what I am writing
+- what I may build next
+
+## Why static-first
+
+This website does not need a server.
+
+Most of the content can be generated at build time:
+
+- homepage
+- blog index
+- blog posts
+- tags and categories
+- sitemap
+- RSS feed
+
+A static-first architecture keeps the site simple, fast, and easy to deploy.
+
+For this version, the blog posts live directly in the repository as MDX files. Publishing a post is just a matter of writing a new file, committing it, and pushing it to GitHub.
+
+## Why design tokens
+
+I still want the site to keep the dark, focused feeling of the previous version, but I do not want the styling to become a pile of one-off Tailwind classes.
+
+A small design token system gives the site a clearer visual language.
+
+The first version only needs a few semantic tokens:
+
+- background
+- surface
+- text
+- muted text
+- accent
+- border
+- section spacing
+- card radius
+
+That is enough to make the design feel intentional without turning a personal site into a design system project.
+
+## What I want this site to become
+
+The goal is not to publish constantly.
+
+The goal is to create a place where useful thinking can accumulate.
+
+Some posts may be technical notes. Some may be reflections on frontend systems, BFF architecture, payments, or AI-assisted product development. Others may be small updates on ideas I am exploring.
+
+A personal site does not need to be big to be useful. It just needs to stay alive.

@@ -1,0 +1,49 @@
+---
+title: "On BFF Boundaries and Reliable Checkout Systems"
+description: "A few practical heuristics for keeping frontend integration layers understandable when payments and operational edge cases start to pile up."
+date: "2026-04-28"
+category: "Engineering"
+tags: ["bff", "payments", "architecture", "typescript"]
+draft: false
+---
+
+When checkout flows become business-critical, the frontend usually starts carrying too much operational logic.
+
+Some of that logic belongs in the UI. Much of it does not.
+
+## The role of the BFF
+
+A good BFF is not just a convenience layer for combining APIs. It becomes the place where product intent, backend constraints, and user-facing reliability can meet without leaking too much complexity into the client.
+
+That matters in payment work because seemingly small edge cases compound quickly:
+
+- gateway timeouts
+- stale basket totals
+- address validation drift
+- partial authorization states
+- feature-flagged payment methods
+
+The more of this state you force into the browser, the harder it becomes to reason about failures.
+
+## A useful boundary
+
+One boundary I keep coming back to is this:
+
+- the frontend should own interaction clarity
+- the BFF should own orchestration clarity
+
+That means the browser should know how to render the right state, collect the right information, and respond to predictable user actions.
+
+The BFF should know how to compose downstream calls, normalize error cases, and produce stable shapes that the frontend can trust.
+
+## Reliability is often a shape problem
+
+Many reliability issues in product systems show up before runtime alarms. They start as shape problems:
+
+- response contracts that drift
+- optional fields that are not really optional
+- hidden coupling between feature flags and API responses
+
+Tighter contracts do not remove all risk, but they reduce the amount of surprise a frontend has to absorb.
+
+That is often the difference between a checkout that feels robust and one that feels brittle.

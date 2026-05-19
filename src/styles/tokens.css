@@ -1,0 +1,34 @@
+:root {
+  --color-navy-950: 2 6 23;
+  --color-navy-900: 7 17 31;
+  --color-navy-850: 11 22 37;
+  --color-navy-800: 15 23 42;
+  --color-slate-50: 248 251 255;
+  --color-slate-100: 229 237 245;
+  --color-slate-300: 182 197 213;
+  --color-slate-400: 142 160 182;
+  --color-teal-300: 122 231 215;
+  --color-teal-400: 94 234 212;
+  --color-teal-500: 52 214 192;
+
+  --color-background: var(--color-navy-950);
+  --color-surface: var(--color-navy-900);
+  --color-surface-muted: var(--color-navy-800);
+  --color-text-primary: var(--color-slate-100);
+  --color-text-muted: var(--color-slate-400);
+  --color-text-soft: var(--color-slate-300);
+  --color-accent: var(--color-teal-400);
+  --color-accent-strong: var(--color-teal-300);
+  --color-border: var(--color-slate-400);
+
+  --space-page-x: clamp(1.25rem, 3vw, 2rem);
+  --space-section-y: clamp(4.75rem, 8vw, 7.5rem);
+
+  --radius-card: 1.25rem;
+  --radius-pill: 999px;
+
+  --font-sans: "Avenir Next", "Segoe UI", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  --font-serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia,
+    serif;
+}
