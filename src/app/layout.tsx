@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Footer } from "@/components/layout/Footer";
 import { Header } from "@/components/layout/Header";
+import { ServiceWorkerCleanup } from "@/components/system/ServiceWorkerCleanup";
 import { siteConfig } from "@/lib/metadata";
 import "@/styles/globals.css";
 
@@ -38,6 +39,7 @@ export default function RootLayout({
   return (
     <html data-scroll-behavior="smooth" lang="en">
       <body>
+        <ServiceWorkerCleanup />
         <a className="skip-link" href="#content">
           Skip to content
         </a>
